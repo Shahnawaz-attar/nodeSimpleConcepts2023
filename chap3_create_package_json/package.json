@@ -1,0 +1,14 @@
+{
+  "name": "chap3_create_package_json",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Shahnawaz",
+  "license": "ISC"
+}
